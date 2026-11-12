@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+/* Same palette as the practice app (sax-tap): warm ink and brass */
+:root {
+  --color-ink: #15110e;
+  --color-ink-2: #221b15;
+  --color-ink-3: #2e251d;
+  --color-cream: #fbf6ec;
+  --color-cream-2: #f3e9d6;
+  --color-brass: #e3ad4a;
+  --color-brass-soft: #f3cf86;
+  --color-brass-deep: #9a6508;
+  --color-line: #e5d9c2;
+  --color-muted: #6b6253;
+  --color-muted-dark: #b5a690;
+}
+
+@theme inline {
+  --color-ink: var(--color-ink);
+  --color-ink-2: var(--color-ink-2);
+  --color-ink-3: var(--color-ink-3);
+  --color-cream: var(--color-cream);
+  --color-cream-2: var(--color-cream-2);
+  --color-brass: var(--color-brass);
+  --color-brass-soft: var(--color-brass-soft);
+  --color-brass-deep: var(--color-brass-deep);
+  --color-line: var(--color-line);
+  --color-muted: var(--color-muted);
+  --color-muted-dark: var(--color-muted-dark);
+  --font-sans: var(--font-figtree);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-cream);
+  color: var(--color-ink);
+  font-family: var(--font-sans), system-ui, sans-serif;
+}
+
+/* anchors land below the sticky header */
+section[id] {
+  scroll-margin-top: 72px;
+}

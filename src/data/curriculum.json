@@ -1,0 +1,246 @@
+[
+ {
+  "day": 1,
+  "title": "Your first note: B",
+  "goal": "make a steady sound on B and hold it for four full beats.",
+  "notes": "New Note: B",
+  "song": "First Sound",
+  "bonus": []
+ },
+ {
+  "day": 2,
+  "title": "Tonguing",
+  "goal": "start every note with your tongue, not with a push of air, so repeated notes are clearly separated.",
+  "notes": "Tonguing on B",
+  "song": "Rhythm on B",
+  "bonus": []
+ },
+ {
+  "day": 3,
+  "title": "New note: A",
+  "goal": "switch between B and A cleanly, moving just one finger.",
+  "notes": "New Note: A",
+  "song": "B and A",
+  "bonus": []
+ },
+ {
+  "day": 4,
+  "title": "New note: G",
+  "goal": "have three notes — B, A, G — and play your first real tune.",
+  "notes": "New Note: G",
+  "song": "Hot Cross Buns",
+  "bonus": []
+ },
+ {
+  "day": 5,
+  "title": "Long tones",
+  "goal": "long, even breath — the foundation of a beautiful sound.",
+  "notes": "Long Tones: G A B",
+  "song": "Au Clair de la Lune",
+  "bonus": []
+ },
+ {
+  "day": 6,
+  "title": "New note: C",
+  "goal": "move from B to C — the trickiest finger change of week one.",
+  "notes": "New Note: C",
+  "song": "Go Tell Aunt Rhody",
+  "bonus": []
+ },
+ {
+  "day": 7,
+  "title": "Week 1 review",
+  "goal": "review G A B C and all three songs, played straight through.",
+  "notes": "Review: G A B C",
+  "song": "Week 1 Medley",
+  "bonus": []
+ },
+ {
+  "day": 8,
+  "title": "High D and the octave key",
+  "goal": "meet the octave key and your first high note.",
+  "notes": "New Note: High D",
+  "song": "Mary Had a Little Lamb",
+  "bonus": []
+ },
+ {
+  "day": 9,
+  "title": "Thirds",
+  "goal": "skip a note and still sound smooth.",
+  "notes": "Thirds",
+  "song": "Lightly Row",
+  "bonus": []
+ },
+ {
+  "day": 10,
+  "title": "E and low D",
+  "goal": "low notes with a round sound — no honking.",
+  "notes": "New Notes: E and Low D",
+  "song": "Ode to Joy",
+  "bonus": []
+ },
+ {
+  "day": 11,
+  "title": "High E and eighth notes",
+  "goal": "add high E and read eighth notes.",
+  "notes": "New Note: High E + Eighth Notes",
+  "song": "Frère Jacques",
+  "bonus": []
+ },
+ {
+  "day": 12,
+  "title": "F# and the G major scale",
+  "goal": "understand the sharp at the start of the staff and play the G major scale.",
+  "notes": "New Note: F#",
+  "song": "Yankee Doodle",
+  "bonus": []
+ },
+ {
+  "day": 13,
+  "title": "Loud and soft, and fifths",
+  "goal": "control your volume without changing the pitch.",
+  "notes": "Loud and Soft + Fifths",
+  "song": "Twinkle Twinkle Little Star",
+  "bonus": [
+   "London Bridge"
+  ]
+ },
+ {
+  "day": 14,
+  "title": "Week 2 review",
+  "goal": "review every note from low D to high E.",
+  "notes": "Review: G Major Scale",
+  "song": "Ode to Joy (Week 2 Review)",
+  "bonus": []
+ },
+ {
+  "day": 15,
+  "title": "Pickups and ties",
+  "goal": "come in at the right moment when a song doesn't start on beat 1.",
+  "notes": "Pickups and Ties",
+  "song": "When the Saints Go Marching In",
+  "bonus": []
+ },
+ {
+  "day": 16,
+  "title": "Repeated notes",
+  "goal": "fast, light tonguing on repeated notes.",
+  "notes": "Repeated Notes",
+  "song": "Jingle Bells (Chorus)",
+  "bonus": []
+ },
+ {
+  "day": 17,
+  "title": "Three-four time",
+  "goal": "feel three beats in a bar.",
+  "notes": "Three-Four Time",
+  "song": "Amazing Grace",
+  "bonus": []
+ },
+ {
+  "day": 18,
+  "title": "Slurs",
+  "goal": "join notes of different pitches into one smooth line.",
+  "notes": "Slurs",
+  "song": "Aura Lee",
+  "bonus": []
+ },
+ {
+  "day": 19,
+  "title": "F and low C",
+  "goal": "reach the lowest note of the course.",
+  "notes": "New Notes: F and Low C",
+  "song": "Twinkle Twinkle Little Star (in C)",
+  "bonus": []
+ },
+ {
+  "day": 20,
+  "title": "High F and high G",
+  "goal": "reach the highest notes of the course.",
+  "notes": "New Notes: High F and G",
+  "song": "Ode to Joy (in C)",
+  "bonus": []
+ },
+ {
+  "day": 21,
+  "title": "Week 3 review",
+  "goal": "review both scales and every note from low C to high G.",
+  "notes": "Review: G and C Major Scales",
+  "song": "Brahms' Lullaby",
+  "bonus": []
+ },
+ {
+  "day": 22,
+  "title": "Dotted quarter notes",
+  "goal": "read dotted rhythms accurately.",
+  "notes": "Dotted Quarter + Eighth",
+  "song": "Oh! Susanna",
+  "bonus": []
+ },
+ {
+  "day": 23,
+  "title": "Breath control",
+  "goal": "stretch your breath to play whole phrases.",
+  "notes": "Long Tones: 12–16 Beats",
+  "song": "Shenandoah",
+  "bonus": []
+ },
+ {
+  "day": 24,
+  "title": "Swing",
+  "goal": "feel the swing rhythm of jazz.",
+  "notes": "Straight and Swing Eighths",
+  "song": "Swing Low, Sweet Chariot",
+  "bonus": [
+   "Down by the Riverside"
+  ]
+ },
+ {
+  "day": 25,
+  "title": "G# and minor keys",
+  "goal": "discover the sound of a minor key.",
+  "notes": "New Note: G# + A Minor",
+  "song": "Greensleeves",
+  "bonus": []
+ },
+ {
+  "day": 26,
+  "title": "Staccato and legato",
+  "goal": "play the same notes in two very different styles.",
+  "notes": "Staccato and Legato",
+  "song": "Simple Gifts",
+  "bonus": []
+ },
+ {
+  "day": 27,
+  "title": "Octave leaps",
+  "goal": "jump between low and high notes without cracking.",
+  "notes": "Octave Leaps",
+  "song": "Danny Boy (Londonderry Air)",
+  "bonus": []
+ },
+ {
+  "day": 28,
+  "title": "Playing by ear",
+  "goal": "hear a melody and find it on your sax.",
+  "notes": "Review: All Notes (Low C to High G)",
+  "song": "Auld Lang Syne",
+  "bonus": []
+ },
+ {
+  "day": 29,
+  "title": "Recital rehearsal",
+  "goal": "put songs together into a short performance.",
+  "notes": "Warm-up Routine",
+  "song": "Recital Medley",
+  "bonus": []
+ },
+ {
+  "day": 30,
+  "title": "Your recital",
+  "goal": "finish the course with a complete performance.",
+  "notes": "Final Check: 10-Second Note + Scales",
+  "song": "Recital",
+  "bonus": []
+ }
+]
